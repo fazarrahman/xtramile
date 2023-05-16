@@ -1,0 +1,8 @@
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/model/Patient.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/XtramileApplication.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/repository/PatientRepository.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/exception/BadRequestException.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/controller/PatientController.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/WebConfig.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/service/PatientService.java
+/Users/mac161/Documents/Projects/xtramile/src/main/java/com/backendtest/xtramile/exception/ResourceNotFoundException.java
